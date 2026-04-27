@@ -1,1 +1,1 @@
-# Simple Scatch Application USing HTML, CSS
+# Simple Scatch Application By using HTML, CSS
