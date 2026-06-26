@@ -11,7 +11,7 @@ A browser-based **Etch-A-Sketch Drawing App** built with HTML, CSS, and JavaScri
 * Responsive design
 * Smooth and intuitive user experience
 * Lightweight and fast performance
-
+* 
 ## 🛠️ Technologies Used
 
 * HTML5
